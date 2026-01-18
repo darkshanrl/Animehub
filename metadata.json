@@ -1,0 +1,7 @@
+{
+  "name": "Copy of ToonHub - Community Content Portal",
+  "description": "A community-driven platform for sharing anime, cartoons, and apps with easy shortlink management and AI-powered metadata generation.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
